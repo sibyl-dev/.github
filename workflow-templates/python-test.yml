@@ -5,4 +5,4 @@ on:
 
 jobs:
   test:
-    uses: sibyl-dev/.github/.github/workflows/python-test.yml@stable
+    uses: sibyl-dev/.github/.github/workflows/python-test.yml@main
