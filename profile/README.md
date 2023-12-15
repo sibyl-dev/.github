@@ -1,3 +1,11 @@
 Sibyl is a system for developing usable ML application for any domain. 
 
 Live demo: https://sibylapp.streamlit.app/
+
+Papers:
+- **Sibyl for Child Welfare Screening:** Zytek, A., Liu, D., Vaithianathan, R., & Veeramachaneni, K. (2021). Sibyl: Understanding and Addressing the Usability Challenges of Machine Learning In High-Stakes Decision Making. IEEE Transactions on Visualization and Computer Graphics, 1–1. https://doi.org/10.1109/TVCG.2021.3114864
+- **Sibyl for Wind Turbine Monitoring:** Zytek, A., Koukoura, S., Wang, W.-E., & Veeramachaneni, K. (n.d.). Lessons from Usable ML Deployments Applied to Wind Turbine Monitoring. [Link](https://arxiv.org/abs/2312.02859)
+- **VBridge for Electronic Health Records:** Cheng, F., Liu, D., Du, F., Lin, Y., Zytek, A., Li, H., Qu, H., & Veeramachaneni, K. (2021). VBridge: Connecting the Dots Between Features and Data to Explain Healthcare Models. IEEE Transactions on Visualization and Computer Graphics, 1–1. https://doi.org/10.1109/TVCG.2021.3114836
+
+
+
