@@ -1,4 +1,4 @@
-Sibyl is a system for developing usable ML application for any domain. 
+Sibyl is a system for developing usable ML applications for any domain. 
 
 Live demo: https://sibylapp.streamlit.app/
 
