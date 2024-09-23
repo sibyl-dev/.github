@@ -10,11 +10,11 @@ Sibyl is a highly-configurable system for developing usable ML applications for 
 
 📈 **[Sibylapp2](https://github.com/sibyl-dev/sibylapp2)**: A lightweight front-end application for interacting with and understandig ML models. 
 
+🦜 **[Explingo](https://github.com/sibyl-dev/Explingo)**: Using LLMs to create natural language explanations of ML logic. 
+
 ## Other Projects
 
 ⚕️ **[VBridge](https://github.com/sibyl-dev/VBridge)**: Interactive visualization for electronic health records.
-
-🦜 **[Explingo](https://github.com/sibyl-dev/Explingo)**: Using LLMs to create natural language explanations of ML logic. 
 
 ## Papers
 **Sibyl for Child Welfare Screening:** Zytek, A., Liu, D., Vaithianathan, R., & Veeramachaneni, K. (2021). Sibyl: Understanding and Addressing the Usability Challenges of Machine Learning In High-Stakes Decision Making. IEEE Transactions on Visualization and Computer Graphics. [Link](https://ieeexplore.ieee.org/abstract/document/9552849)
